@@ -1,6 +1,6 @@
 # Eduardo Faria Krüger
 ## Welcome to my GitHub Account
-My name is Eduardo Faria Krüger, im 16 years old and passionate for programming and solving puzzles. Im currently doing mid school at the Federal Institute of Paraná, doing administrative technician.
+##### My name is Eduardo Faria Krüger, im 16 years old and passionate for programming and solving puzzles. Im currently doing mid school at the Federal Institute of Paraná, doing administrative technician.
 ##   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoFariaKruger&show_icons=true&theme=radical)
 ## :hammer_and_wrench: What i know so far
   <div>
